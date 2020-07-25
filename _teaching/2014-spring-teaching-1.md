@@ -8,13 +8,5 @@ date: July '17 - Nov '17
 location: "Mumbai, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Part of a 20 member student team assisting professors of a first year undergraduate course
+Helped students get a better insight, clarified their doubts and evaluated their performance
