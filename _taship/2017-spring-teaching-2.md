@@ -2,7 +2,7 @@
 title: "Teaching Assistant: Differential Equations (MA 108)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2017-spring-teaching-2
+permalink: /taship/2017-spring-teaching-2
 venue: "IIT Bombay, Department of Maths"
 date: Spring '18
 location: "Mumbai, India"
