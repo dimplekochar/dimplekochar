@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2017-spring-teaching-2
 venue: "IIT Bombay, Department of Maths"
-date: Mar '18 - Apr '18
+date: Spring '18
 location: "Mumbai, India"
 ---
 
