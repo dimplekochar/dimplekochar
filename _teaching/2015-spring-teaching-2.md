@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant: Differential Equations (MA 108)"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2017-spring-teaching-2
+venue: "IIT Bombay, Department of Maths"
+date: Mar '18 - Apr '18
+location: "Mumbai, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Initiated interactive learning by mentoring 46 first year undergraduate students as a part of the student team 
+Also, discussed solutions to problems in tutorial sessions and evaluated examinations of the students
