@@ -8,5 +8,5 @@ date: July '17 - Nov '17
 location: "Mumbai, India"
 ---
 
-Part of a 20 member student team assisting professors of a first year undergraduate course
+Part of a 20 member student team assisting professors of a first year undergraduate course.
 Helped students get a better insight, clarified their doubts and evaluated their performance
