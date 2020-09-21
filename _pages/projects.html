@@ -15,68 +15,85 @@ author_profile: true
 <ol>
 <li><p><strong>16 bit Brent Kung Adder - Layout, Back extract and Simulate in Cadence</strong> (Oct '19 - Nov '19) <br /> 
   <em>Advisor: Prof. Dinesh Sharma, EE, IITB</em> <br /> 
-Designed the schematic and layout for a Brent Kung Adder starting from various functional modules, testing each of them and finally combining them.
-Obtained correct DRC and LVS report of individual modules and whole adder; conducted post layout simulation results and got accurate functionality. 
+<ul>
+  <li>   Designed the schematic & layout for a Brent Kung Adder from various functional modules, testing each of them, passing Design Rule Checking (DRC) & Layout Versus Schematic (LVS), and did Parasitic Extraction (PEX)</li> 
+<li>   Combined the modules & conducted post layout simulation tests to get accurate adder functionality </li> 
+  </ul>
   <a href="https://dimplekochar.github.io/files/report671.pdf">[Report]</a>
-  <a href="https://github.com/dimplekochar/Butler_Matrix">[files]</a></p></li>
+  <a href="https://github.com/dimplekochar/16_bit_BrentKung_Adder_Cadence">[files]</a></p></li>
 
 <li><p><strong> 4X4 Butler Matrix Circuit </strong> (Aug '19 - Nov '19) <br /> 
   <em>Advisor: Prof. Jayanta Mukherjee, EE, IITB</em> <br />
   <ul>
 <li> Constructed the circuit with 90 &#176 hybrids and phase delay lines for operation at frequency 5.4 GHz </li>
-<li> Fabricated on FR4 substrate using microstrip transmission lines to obtain equal power division </li>  
+<li> Fabricated on FR4 substrate using microstrip transmission lines and obtained equal power division </li>  
   </ul>
     <a href="https://dimplekochar.github.io/files/report611.pdf">[Report]</a>
-  <a href="https://github.com/dimplekochar/Touchless_Gesture_Recognition/blob/master/Analog_Project_Simulation_Report.pdf">[files]</a></p></li>
+  <a href="https://github.com/dimplekochar/Butler_Matrix">[files]</a></p></li>
 
 <li><p><strong> Power Amplifier Design </strong> (Feb '19 - Apr '19) <br /> 
   <em>Advisor: Prof. Jayanta Mukherjee, EE, IITB</em> <br /> 
-Designed a power amplifier using AFIC901N for a gain of 2.5 dB at 520 MHz with S<sub>11</sub> and S<sub>12</sub> values nearly -18 dB and -35 dB respectively.
-  Constructed appropriate matching networks and bias-tee for the given amplifier IC.
+<ul>
+<li> Fabricated a power amplifier of gain 2.5 dB at 520 MHz with S<sub>11</sub> & S<sub>12</sub> values of -18 dB & -35 dB </li>
+<li> Designed matching networks for the amplifier IC AFIC901N with microstrip transmission lines </li>  
+  </ul>
   <a href="https://dimplekochar.github.io/files/report614.pdf">[Report]</a>
   <a href="https://github.com/dimplekochar/Power_Amplifier_Design">[files]</a></p></li>
 
 <li><p><strong>Heart Monitor</strong></em> (Feb '19 - Mar '19) <br /> 
    <em>Advisor: Prof. Vikram Gadre, EE, IITB</em> <br /> 
-Stood among the top 5 teams in the Make in India presentation organised for Technical Education Quality Improvement Programme (TEQIP) - III
-Acquired, filtered, thresholded and interpolated the signal to obtain its power spectral density in MATLAB and predict the risk of myocardial infraction
-  using a digital signal processor
+<ul>
+<li> Stood among the top 5 teams in the Make in India presentation organised for Technical Education Quality Improvement Programme (TEQIP)-III </li>
+<li> Acquired, filtered, thresholded and interpolated the signal to obtain its power spectral density in MATLAB and predict the risk of myocardial infraction
+  using digital signal processing
+ </li>  
+  </ul>
   <a href="https://dimplekochar.github.io/files/present338.pdf">[Presentation]</a>
   <a href="https://github.com/dimplekochar/Heart_Monitor">[files]</a></p></li>
 
 <li><p><strong>Noise Free Roads</strong> (Jan '19 - May '19) <br /> 
   <em>Wadhwani Lab, EE, IITB</em> <br /> 
-Provided initial calibration of the device for a particular car using frequency circuits, counted the number of times a driver uses the horn of the car 
-in analysis of driving skills, provided for no tampering of device and transmitted the data to a server using ESP8266
+<ul>
+<li> Built a device, which can be calibrated according to the horn of a vehicle, to count a specific vehicle’s honks amid noise by an amplitude-frequency threshold circuit
+ </li>
+<li> Transmitted this data to a server using ESP8266 wirelessly and provided for detection if the device is tampered with; can be used to monitor honking rate of a driver </li>  
+  </ul>
   <a href="https://dimplekochar.github.io/files/present344.pdf">[Presentation]</a>
   <a href="https://dimplekochar.github.io/files/report344.pdf">[Report]</a></p></li>
 
 
   <li><p><strong>Pipelined RISC Microprocessor</strong> (Jul '18 - Nov '18) <br /> 
-  <em>Advisor: Prof.  Virendra Singh, EE, IITB</em> <br /> 
- Designed IITB-RISC, an 8-register, 16-bit computer system which follows the standard 6 stage pipelines
+  <em>Advisor: Prof.  Virendra Singh, EE, IITB</em> <br />
+    <ul>
+<li> Designed IITB-RISC, an 8-register, 16-bit computer system which follows the standard 6 stage pipelines
 (Instruction fetch, instruction decode, register read, execute, memory access, and write back) capable of executing 15 instructions
   and equipped it with control flow, data forwarding, data dependency hazard detection
-  and hazard mitigation. Implemented the design in VHDL and tested it on a DE0-Nano FPGA board.
+  and hazard mitigation </li>
+<li> Implemented the design in VHDL, simulated it and tested it on a DE0-Nano FPGA board </li>  
+  </ul>
   <a href="https://github.com/dimplekochar/Pipelined_RISC_Microprocessor">[files]</a></p></li>
 
 <li><p><strong>Music Genre Identification</strong> (Feb '18 - May '18) <br /> 
   <em>Advisor: Prof. Preethi Jyothi, CSE, IITB</em> <br /> 
-Researched and found that the timbre feature corresponding to the loudest parts of the song gives
-better clustering of audio samples and implemented Principal Component Analysis (PCA) to show it
-Contrived Bayesian Optimization for tuning of hyperparameters to compute posterior probability
-loss; utilized Gini Index for splitting at each node in Random Forests
-Achieved an accuracy of 56% and an F1 score of 50.65% using the Random Forest algorithm
+   <ul>
+<li> Researched and found that the timbre feature corresponding to the loudest parts of the song gives
+better clustering of audio samples and implemented Principal Component Analysis (PCA) to show it </li>
+<li> Contrived Bayesian Optimization for tuning of hyperparameters to compute posterior probability
+loss; utilized Gini Index for splitting at each node in Random Forests</li>
+<li> Achieved an accuracy of 56% and an F1 score of 50.65% using the Random Forest algorithm </li>
+     </ul>
   <a href="https://dimplekochar.github.io/files/report419.pdf">[Report]</a>
   <a href="https://github.com/dimplekochar/Music_Genre_Identification">[files]</a></p></li>
 
 
 <li><p><strong>Touchless Gesture Recognition</strong> (Feb '18 - Apr '18) <br /> 
   <em>Advisor: Prof. Siddharth Tallur, EE, IITB</em> <br /> 
-  Part of a 2 member team that was awarded the best project among 70 teams
-Designed and implemented a touchless gesture audio volume controller, motion tracker (using an LED matrix) 
-  and a pattern lock by gesture detection using infrared emitters and sensors
-Implemented the digital logic on an Altera CPLD by coding in VHDL on Altera Quartus software
+  <ul>
+<li> Part of a 2 member team that was awarded the best project among 70 teams </li>
+<li> Designed and implemented a touchless gesture audio volume controller, motion tracker (using an LED matrix) 
+  and a pattern lock by gesture detection using infrared emitters and sensors  </li>
+<li> Implemented the digital logic on an Altera CPLD by coding in VHDL on Altera Quartus software </li>
+     </ul>
   <a href="https://dimplekochar.github.io/files/present230.pdf">[Presentation]</a>
   <a href="https://github.com/dimplekochar/Touchless_Gesture_Recognition/">[files]</a></p></li>
 </ol>
