@@ -8,3 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
+ <a href="https://dimplekochar.github.io/files/cv.pdf">CV</a> (November, 2020)
