@@ -1,16 +1,16 @@
 # main links links
 main:
-  #- title: "Publications"
-  #  url: /publications/
+  - title: "Publications"
+    url: /publications/
 
   - title: "Research"
     url: /research/    
 
-  - title: "TAship"
-    url: /taship/    
-    
   - title: "Projects"
     url: /projects/
+  
+  - title: "TAship"
+    url: /taship/      
         
   - title: "Extracurriculars"
     url: /extracurriculars/
