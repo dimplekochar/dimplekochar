@@ -11,7 +11,7 @@ redirect_from:
 <a href="https://dimplekochar.github.io/files/CV_Dimple_Kochar.pdf">CV</a> (November, 2020) <br>
 <br>
 Test Scores; <br>
-GRE: 337/340
+GRE: 337/340 <br>
 TOEFL: 120/120
 
  
