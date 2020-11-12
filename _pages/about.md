@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I’m currently a fifth year Dual Degree (B.Tech + M.Tech) student at the Department of Electrical Engineering, IIT Bombay. I am specializing in Microelectronics. My research interests lie broadly in the areas of electric devices, circuits and CAD. 
+I’m currently a fifth year Dual Degree (B.Tech + M.Tech) student at the Department of Electrical Engineering, IIT Bombay. I am specializing in Microelectronics. My research interests lie broadly in the areas of nanoelectronics, circuits and CAD. 
 
 I’m fortunate to have [Prof. Souvik Mahapatra](https://www.ee.iitb.ac.in/wiki/faculty/souvik?s=model) as my Master’s Thesis advisor. We are working on electrical characterization, modeling and simulation of Stress Induced Leakage Current (SILC), Positive Bias Temperature Instability (PBTI) and other reliability concerns in micro/nano electronic devices. Apart from it, we are also trying to model Time Dependent Dielectric Breakdown (TDDB) of very thin oxides using a percolation model. 
 
