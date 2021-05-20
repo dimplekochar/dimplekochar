@@ -18,4 +18,4 @@ I’m fortunate to have [Prof. Souvik Mahapatra](https://www.ee.iitb.ac.in/wiki/
 
 I spent a summer at Delft University of Technology (TU Delft), where I was hosted by [Prof. Gerrit Bauer](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/quantum-nanoscience/prof-dr-gerrit-bauer/) and [Prof. Yaroslav Blanter](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/quantum-nanoscience/prof-dr-yaroslav-blanter/), at the Kavli Institute of Nanoscience. We worked on dipole-exchange spin waves for thin ferromagnetic films.  
 
-I have also worked with [Prof. Animesh Kumar](https://www.ee.iitb.ac.in/~animesh/) on an independent study project. We developed a method to obtain the time to failure distribution for an SRAM cell with a given RTN model.
+I have also worked with [Prof. Animesh Kumar](https://www.ee.iitb.ac.in/~animesh/) on an independent study project. We developed a method to obtain the time to failure distribution for any SRAM cell with any given RTN model.
