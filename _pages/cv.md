@@ -8,10 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<a href="https://dimplekochar.github.io/files/CV_Dimple_Kochar.pdf">CV</a> (Updated January, 2021)
+<a href="https://dimplekochar.github.io/files/CV_Dimple_Kochar.pdf">CV</a>
 <br> <br> 
-Test Scores: <br>
-GRE: 337/340 (V:168, Q:169, W:4) <br>
-TOEFL: 120/120
 
  
