@@ -9,10 +9,9 @@ redirect_from:
 ---
 
 
+I will be joining the PhD program in the Electrical Engineering and Computer Science (EECS) Department at Massachusetts Institute of Technology (MIT) in Fall 2021.
 
 I'm currently a fifth-year Dual Degree (B.Tech + M.Tech) student at the Department of Electrical Engineering, IIT Bombay. My research interests lie in the areas of nanoelectronics and circuits. 
-
-I will be joining the PhD program in the Electrical Engineering and Computer Science (EECS) Department at Massachusetts Institute of Technology (MIT) in Fall 2021.
 
 I'm fortunate to have [Prof. Souvik Mahapatra](https://www.ee.iitb.ac.in/wiki/faculty/souvik?s=model) as my Master's Thesis advisor. We are working on electrical characterization, modeling and simulation of Stress Induced Leakage Current (SILC), Positive Bias Temperature Instability (PBTI) and other reliability concerns in micro/nano electronic devices. Apart from it, we are also trying to model Time Dependent Dielectric Breakdown (TDDB) of very thin oxides using a percolation model. 
 
